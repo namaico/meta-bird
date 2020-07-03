@@ -1,4 +1,7 @@
 # meta-bird
+Made with LÖVE 11.3
+
+https://love2d.org/
 
 https://www.lexaloffle.com/bbs/?pid=38144#p
 
